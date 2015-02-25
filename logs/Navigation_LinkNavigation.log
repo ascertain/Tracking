@@ -1,0 +1,341 @@
+2015-01-23 12:07:42.4922|INFO|SeleniumBase.BaseTestsuite|Logging is setup.
+2015-01-23 12:07:42.5032|INFO|SeleniumBase.BaseTestsuite|Initializing LEGOUrlHandler helper object.
+2015-01-23 12:07:42.5032|INFO|SeleniumBase.BaseTestsuite|Starting webdriver.
+2015-01-23 12:07:49.7749|INFO|SeleniumBase.BaseTestsuite|Started [Chrome] as webdriver.
+2015-01-23 12:07:49.7749|INFO|SeleniumBase.BaseTestsuite|Initializing LEGO ID helper objects.
+2015-01-23 12:07:52.0141|DEBUG|SeleniumBase.BaseTestsuite|Using logging directory for reading screenshots: C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\logs
+2015-01-23 12:07:52.0331|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-23 12:07:55.6465|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-23 12:07:55.6485|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-23 12:07:59.9419|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-23 12:07:59.9419|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-23 12:07:59.9419|INFO|SeleniumBase.Tracking.PageStatsProxy|*** Ignored above tracking hit: Unique visitor id cookie data present (vidn).
+2015-01-23 12:08:03.6593|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-23 12:08:03.6593|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-23 12:08:08.9048|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 5 and Link Name : ABOUT LEGO' JUNIORS and Link is : http://www.dev.corp.lego.com/en-us/juniors2014/about-lego-juniors and Expected URL is http://www.dev.corp.lego.com/en-us/juniors2014/about-lego-juniors
+2015-01-23 12:08:08.9098|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-23 12:08:12.3672|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-23 12:08:12.3672|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:aboutlegojuniors:overview'.
+2015-01-23 12:10:27.3266|INFO|SeleniumBase.BaseTestsuite|Logging is setup.
+2015-01-23 12:10:27.3366|INFO|SeleniumBase.BaseTestsuite|Initializing LEGOUrlHandler helper object.
+2015-01-23 12:10:27.3366|INFO|SeleniumBase.BaseTestsuite|Starting webdriver.
+2015-01-23 12:10:30.4430|INFO|SeleniumBase.BaseTestsuite|Started [Chrome] as webdriver.
+2015-01-23 12:10:30.4430|INFO|SeleniumBase.BaseTestsuite|Initializing LEGO ID helper objects.
+2015-01-23 12:10:31.5391|DEBUG|SeleniumBase.BaseTestsuite|Using logging directory for reading screenshots: C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\logs
+2015-01-23 12:10:31.5571|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-23 12:10:37.5157|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-23 12:10:37.5157|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-23 12:10:37.8687|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-23 12:10:37.8687|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-23 12:10:37.8687|INFO|SeleniumBase.Tracking.PageStatsProxy|*** Ignored above tracking hit: Unique visitor id cookie data present (vidn).
+2015-01-23 12:10:41.4211|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-23 12:10:41.4231|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-23 12:10:46.6896|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 5 and Link Name : ABOUT LEGO' JUNIORS and Link is : http://www.webqa.lego.com/en-us/juniors2014/about-lego-juniors and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/about-lego-juniors
+2015-01-23 12:10:46.6946|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-23 12:10:48.2547|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-23 12:10:48.2547|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:aboutlegojuniors:overview'.
+2015-01-23 12:10:52.5212|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 4 and Link Name : APPS and Link is : http://www.webqa.lego.com/en-us/juniors2014/apps and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/apps
+2015-01-23 12:10:52.5212|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-23 12:10:52.8852|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-23 12:10:52.8852|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:apps:overview'.
+2015-01-23 12:10:57.1536|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 3 and Link Name : GAMES and Link is : http://www.webqa.lego.com/en-us/juniors2014/games and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/games
+2015-01-23 12:10:57.1536|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-23 12:10:57.5837|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-23 12:10:57.5837|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:games:overview'.
+2015-01-23 12:11:01.8541|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 2 and Link Name : DOWNLOADS and Link is : http://www.webqa.lego.com/en-us/juniors2014/downloads and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/downloads
+2015-01-23 12:11:01.8541|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-23 12:11:02.2821|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-23 12:11:02.2821|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:downloads:overview'.
+2015-01-23 12:11:06.5556|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 1 and Link Name : PRODUCTS and Link is : http://www.webqa.lego.com/en-us/juniors2014/products and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/products
+2015-01-23 12:11:06.5556|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-23 12:11:07.2506|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-23 12:11:07.2506|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:products:overview'.
+2015-01-23 12:11:11.5311|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 0 and Link Name : HOME and Link is : http://www.webqa.lego.com/en-us/juniors2014 and Expected URL is http://www.webqa.lego.com/en-us/juniors2014
+2015-01-23 12:11:11.5311|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-23 12:11:11.9431|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-23 12:11:11.9431|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-23 12:11:16.1715|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-01-23 12:11:16.1715|INFO|SeleniumBase.BaseTestsuite|Test result: Success
+2015-01-23 12:11:16.1885|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-01-23 12:11:16.1885|INFO|SeleniumBase.BaseTestsuite|Test clean up complete.
+2015-01-28 11:19:38.8067|INFO|SeleniumBase.BaseTestsuite|Logging is setup.
+2015-01-28 11:19:38.8467|INFO|SeleniumBase.BaseTestsuite|Initializing LEGOUrlHandler helper object.
+2015-01-28 11:19:38.8467|INFO|SeleniumBase.BaseTestsuite|Starting webdriver.
+2015-01-28 11:19:46.2977|INFO|SeleniumBase.BaseTestsuite|Started [Chrome] as webdriver.
+2015-01-28 11:19:46.3017|INFO|SeleniumBase.BaseTestsuite|Initializing LEGO ID helper objects.
+2015-01-28 11:19:51.3647|DEBUG|SeleniumBase.BaseTestsuite|Using logging directory for reading screenshots: C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\logs
+2015-01-28 11:19:51.4137|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:20:00.6527|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:20:00.6527|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-28 11:20:01.0467|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:20:01.0467|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-28 11:20:01.0587|INFO|SeleniumBase.Tracking.PageStatsProxy|*** Ignored above tracking hit: Unique visitor id cookie data present (vidn).
+2015-01-28 11:20:05.1297|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:20:05.1297|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-28 11:20:10.5857|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 5 and Link Name : ABOUT LEGO' JUNIORS and Link is : http://www.webqa.lego.com/en-us/juniors2014/about-lego-juniors and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/about-lego-juniors
+2015-01-28 11:20:10.5897|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:20:17.9817|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:20:17.9837|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:aboutlegojuniors:overview'.
+2015-01-28 11:21:27.8937|INFO|SeleniumBase.BaseTestsuite|Logging is setup.
+2015-01-28 11:21:27.9047|INFO|SeleniumBase.BaseTestsuite|Initializing LEGOUrlHandler helper object.
+2015-01-28 11:21:27.9047|INFO|SeleniumBase.BaseTestsuite|Starting webdriver.
+2015-01-28 11:21:32.3977|INFO|SeleniumBase.BaseTestsuite|Started [Chrome] as webdriver.
+2015-01-28 11:21:32.3977|INFO|SeleniumBase.BaseTestsuite|Initializing LEGO ID helper objects.
+2015-01-28 11:21:37.0957|DEBUG|SeleniumBase.BaseTestsuite|Using logging directory for reading screenshots: C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\logs
+2015-01-28 11:21:37.1497|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:21:44.0327|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:21:44.0327|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-28 11:21:44.3967|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:21:44.3967|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-28 11:21:44.3967|INFO|SeleniumBase.Tracking.PageStatsProxy|*** Ignored above tracking hit: Unique visitor id cookie data present (vidn).
+2015-01-28 11:21:48.4837|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:21:48.4897|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-28 11:21:53.9207|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 5 and Link Name : ABOUT LEGO' JUNIORS and Link is : http://www.webqa.lego.com/en-us/juniors2014/about-lego-juniors and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/about-lego-juniors
+2015-01-28 11:21:53.9207|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:21:54.3817|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:21:54.3817|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:aboutlegojuniors:overview'.
+2015-01-28 11:21:59.7577|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 4 and Link Name : APPS and Link is : http://www.webqa.lego.com/en-us/juniors2014/apps and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/apps
+2015-01-28 11:21:59.7577|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:22:00.7487|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:22:00.7527|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:apps:overview'.
+2015-01-28 11:22:06.1037|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 3 and Link Name : GAMES and Link is : http://www.webqa.lego.com/en-us/juniors2014/games and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/games
+2015-01-28 11:22:06.1037|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:22:07.0557|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:22:07.0557|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:games:overview'.
+2015-01-28 11:22:12.4917|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 2 and Link Name : DOWNLOADS and Link is : http://www.webqa.lego.com/en-us/juniors2014/downloads and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/downloads
+2015-01-28 11:22:12.5007|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:22:13.4857|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:22:13.4857|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:downloads:overview'.
+2015-01-28 11:22:18.9257|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 1 and Link Name : PRODUCTS and Link is : http://www.webqa.lego.com/en-us/juniors2014/products and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/products
+2015-01-28 11:22:18.9257|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:22:20.7547|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:22:20.7547|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:products:overview'.
+2015-01-28 11:22:26.2177|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 0 and Link Name : HOME and Link is : http://www.webqa.lego.com/en-us/juniors2014 and Expected URL is http://www.webqa.lego.com/en-us/juniors2014
+2015-01-28 11:22:26.2277|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:22:27.3977|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:22:27.3977|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-28 11:22:32.7037|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-01-28 11:22:32.7127|INFO|SeleniumBase.BaseTestsuite|Test result: Success
+2015-01-28 11:22:32.7127|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-01-28 11:22:32.7287|INFO|SeleniumBase.BaseTestsuite|Test clean up complete.
+2015-01-28 11:22:42.6607|INFO|SeleniumBase.BaseTestsuite|Logging is setup.
+2015-01-28 11:22:42.6907|INFO|SeleniumBase.BaseTestsuite|Initializing LEGOUrlHandler helper object.
+2015-01-28 11:22:42.6977|INFO|SeleniumBase.BaseTestsuite|Starting webdriver.
+2015-01-28 11:22:46.4997|INFO|SeleniumBase.BaseTestsuite|Started [Chrome] as webdriver.
+2015-01-28 11:22:46.5027|INFO|SeleniumBase.BaseTestsuite|Initializing LEGO ID helper objects.
+2015-01-28 11:22:50.5487|DEBUG|SeleniumBase.BaseTestsuite|Using logging directory for reading screenshots: C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\logs
+2015-01-28 11:22:50.5987|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:22:59.6577|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:22:59.6577|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-28 11:23:00.0637|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:23:00.0637|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-28 11:23:00.0747|INFO|SeleniumBase.Tracking.PageStatsProxy|*** Ignored above tracking hit: Unique visitor id cookie data present (vidn).
+2015-01-28 11:23:04.0637|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:23:04.0677|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-28 11:23:09.5267|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 5 and Link Name : ABOUT LEGO' JUNIORS and Link is : http://www.webqa.lego.com/en-us/juniors2014/about-lego-juniors and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/about-lego-juniors
+2015-01-28 11:23:09.5307|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:23:10.4597|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:23:10.4637|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:aboutlegojuniors:overview'.
+2015-01-28 11:23:15.9257|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 4 and Link Name : APPS and Link is : http://www.webqa.lego.com/en-us/juniors2014/apps and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/apps
+2015-01-28 11:23:15.9257|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:23:16.8257|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:23:16.8297|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:apps:overview'.
+2015-01-28 11:23:22.2917|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 3 and Link Name : GAMES and Link is : http://www.webqa.lego.com/en-us/juniors2014/games and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/games
+2015-01-28 11:23:22.2917|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:23:23.2737|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:23:23.2737|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:games:overview'.
+2015-01-28 11:23:28.6967|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 2 and Link Name : DOWNLOADS and Link is : http://www.webqa.lego.com/en-us/juniors2014/downloads and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/downloads
+2015-01-28 11:23:28.7007|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:23:29.6987|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:23:29.6987|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:downloads:overview'.
+2015-01-28 11:23:35.1427|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 1 and Link Name : PRODUCTS and Link is : http://www.webqa.lego.com/en-us/juniors2014/products and Expected URL is http://www.webqa.lego.com/en-us/juniors2014/products
+2015-01-28 11:23:35.1797|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:23:36.5017|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:23:36.5017|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:products:overview'.
+2015-01-28 11:23:41.8437|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 0 and Link Name : HOME and Link is : http://www.webqa.lego.com/en-us/juniors2014 and Expected URL is http://www.webqa.lego.com/en-us/juniors2014
+2015-01-28 11:23:41.8437|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-28 11:23:42.3847|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-28 11:23:42.3847|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - juniors:homepage:overview'.
+2015-01-28 11:23:47.6837|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-01-28 11:23:47.6837|INFO|SeleniumBase.BaseTestsuite|Test result: Success
+2015-01-28 11:23:47.6837|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-01-28 11:23:47.7017|INFO|SeleniumBase.BaseTestsuite|Test clean up complete.
+2015-01-29 10:30:34.1400|INFO|SeleniumBase.BaseTestsuite|Logging is setup.
+2015-01-29 10:30:34.1400|INFO|SeleniumBase.BaseTestsuite|Initializing LEGOUrlHandler helper object.
+2015-01-29 10:30:34.1540|INFO|SeleniumBase.BaseTestsuite|Starting webdriver.
+2015-01-29 10:30:38.5204|INFO|SeleniumBase.BaseTestsuite|Started [Chrome] as webdriver.
+2015-01-29 10:30:38.5224|INFO|SeleniumBase.BaseTestsuite|Initializing LEGO ID helper objects.
+2015-01-29 10:30:42.3748|DEBUG|SeleniumBase.BaseTestsuite|Using logging directory for reading screenshots: C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\logs
+2015-01-29 10:30:42.3928|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-29 10:30:49.7036|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-29 10:30:49.7076|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-01-29 10:30:50.0856|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-29 10:30:50.0856|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-01-29 10:30:50.0856|INFO|SeleniumBase.Tracking.PageStatsProxy|*** Ignored above tracking hit: Unique visitor id cookie data present (vidn).
+2015-01-29 10:31:11.0887|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-29 10:31:11.0887|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-01-29 10:31:16.5462|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 1 and Link Name : VIDEOS and Link is : http://www.dev.corp.lego.com/en-us/dimensions/videos and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions/videos
+2015-01-29 10:31:16.5462|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-29 10:31:21.5807|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-29 10:31:21.5807|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:videos:overview'.
+2015-01-29 10:34:12.0178|INFO|SeleniumBase.BaseTestsuite|Logging is setup.
+2015-01-29 10:34:12.0178|INFO|SeleniumBase.BaseTestsuite|Initializing LEGOUrlHandler helper object.
+2015-01-29 10:34:12.0348|INFO|SeleniumBase.BaseTestsuite|Starting webdriver.
+2015-01-29 10:34:14.6721|INFO|SeleniumBase.BaseTestsuite|Started [Chrome] as webdriver.
+2015-01-29 10:34:14.6721|INFO|SeleniumBase.BaseTestsuite|Initializing LEGO ID helper objects.
+2015-01-29 10:34:18.0184|DEBUG|SeleniumBase.BaseTestsuite|Using logging directory for reading screenshots: C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\logs
+2015-01-29 10:34:18.0364|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-29 10:34:22.6508|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-29 10:34:22.6508|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-01-29 10:34:24.5740|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-29 10:34:24.5760|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-01-29 10:34:24.5760|INFO|SeleniumBase.Tracking.PageStatsProxy|*** Ignored above tracking hit: Unique visitor id cookie data present (vidn).
+2015-01-29 10:34:28.3064|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-29 10:34:28.3064|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-01-29 10:34:30.5756|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 1 and Link Name : VIDEOS and Link is : http://www.dev.corp.lego.com/en-us/dimensions/videos and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions/videos
+2015-01-29 10:34:30.5756|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-29 10:34:30.9587|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-29 10:34:30.9587|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:videos:overview'.
+2015-01-29 10:34:36.2322|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 0 and Link Name : HOME and Link is : http://www.dev.corp.lego.com/en-us/dimensions and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions
+2015-01-29 10:34:36.2322|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-29 10:34:36.6753|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-29 10:34:36.6753|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-01-29 10:34:41.8858|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-01-29 10:34:41.8858|INFO|SeleniumBase.BaseTestsuite|Test result: Success
+2015-01-29 10:34:41.8858|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-01-29 10:34:41.8958|INFO|SeleniumBase.BaseTestsuite|Test clean up complete.
+2015-01-29 11:29:45.7361|INFO|SeleniumBase.BaseTestsuite|Logging is setup.
+2015-01-29 11:29:45.7471|INFO|SeleniumBase.BaseTestsuite|Initializing LEGOUrlHandler helper object.
+2015-01-29 11:29:45.7471|INFO|SeleniumBase.BaseTestsuite|Starting webdriver.
+2015-01-29 11:29:49.7415|INFO|SeleniumBase.BaseTestsuite|Started [Chrome] as webdriver.
+2015-01-29 11:29:49.7415|INFO|SeleniumBase.BaseTestsuite|Initializing LEGO ID helper objects.
+2015-01-29 11:29:53.5139|DEBUG|SeleniumBase.BaseTestsuite|Using logging directory for reading screenshots: C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\logs
+2015-01-29 11:29:53.5159|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-29 11:29:58.8164|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-29 11:29:58.8194|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-01-29 11:30:00.2186|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-29 11:30:00.2186|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-01-29 11:30:00.2236|INFO|SeleniumBase.Tracking.PageStatsProxy|*** Ignored above tracking hit: Unique visitor id cookie data present (vidn).
+2015-01-29 11:30:04.9660|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-29 11:30:04.9660|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-01-29 11:30:07.2473|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 1 and Link Name : VIDEOS and Link is : http://www.dev.corp.lego.com/en-us/dimensions/videos and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions/videos
+2015-01-29 11:30:07.2473|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-29 11:30:07.8573|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-29 11:30:07.8573|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:videos:overview'.
+2015-01-29 11:30:13.1459|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 0 and Link Name : HOME and Link is : http://www.dev.corp.lego.com/en-us/dimensions and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions
+2015-01-29 11:30:13.1459|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-29 11:30:13.7849|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-29 11:30:13.7849|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-01-29 11:30:19.0115|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-01-29 11:30:19.0115|INFO|SeleniumBase.BaseTestsuite|Test result: Success
+2015-01-29 11:30:19.0115|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-01-29 11:30:19.0115|INFO|SeleniumBase.BaseTestsuite|Test clean up complete.
+2015-01-30 15:40:11.8511|INFO|SeleniumBase.BaseTestsuite|Logging is setup.
+2015-01-30 15:40:11.8511|INFO|SeleniumBase.BaseTestsuite|Initializing LEGOUrlHandler helper object.
+2015-01-30 15:40:11.8511|INFO|SeleniumBase.BaseTestsuite|Starting webdriver.
+2015-01-30 15:40:16.8646|INFO|SeleniumBase.BaseTestsuite|Started [Chrome] as webdriver.
+2015-01-30 15:40:16.8646|INFO|SeleniumBase.BaseTestsuite|Initializing LEGO ID helper objects.
+2015-01-30 15:40:20.8930|DEBUG|SeleniumBase.BaseTestsuite|Using logging directory for reading screenshots: C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\logs
+2015-01-30 15:40:29.5989|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 1 and Link Name : VIDEOS and Link is : http://www.dev.corp.lego.com/en-us/dimensions/videos and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions/videos
+2015-01-30 15:40:29.6159|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-30 15:40:30.4320|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-30 15:40:30.4320|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:videos:overview'.
+2015-01-30 15:40:35.7255|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 0 and Link Name : HOME and Link is : http://www.dev.corp.lego.com/en-us/dimensions and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions
+2015-01-30 15:40:35.7255|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-30 15:40:36.1686|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-30 15:40:36.1706|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-01-30 15:40:41.3851|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-01-30 15:40:41.3851|INFO|SeleniumBase.BaseTestsuite|Test result: Success
+2015-01-30 15:40:41.3851|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-01-30 15:40:41.3851|INFO|SeleniumBase.BaseTestsuite|Test clean up complete.
+2015-01-30 16:17:11.2851|INFO|SeleniumBase.BaseTestsuite|Logging is setup.
+2015-01-30 16:17:11.2961|INFO|SeleniumBase.BaseTestsuite|Initializing LEGOUrlHandler helper object.
+2015-01-30 16:17:11.2961|INFO|SeleniumBase.BaseTestsuite|Starting webdriver.
+2015-01-30 16:17:14.0133|INFO|SeleniumBase.BaseTestsuite|Started [Chrome] as webdriver.
+2015-01-30 16:17:14.0133|INFO|SeleniumBase.BaseTestsuite|Initializing LEGO ID helper objects.
+2015-01-30 16:17:17.7107|DEBUG|SeleniumBase.BaseTestsuite|Using logging directory for reading screenshots: C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\logs
+2015-01-30 16:17:25.9525|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 1 and Link Name : VIDEOS and Link is : http://www.dev.corp.lego.com/en-us/dimensions/videos and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions/videos
+2015-01-30 16:17:25.9695|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-30 16:17:26.5686|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-30 16:17:26.5686|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:videos:overview'.
+2015-01-30 16:17:31.8801|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 0 and Link Name : HOME and Link is : http://www.dev.corp.lego.com/en-us/dimensions and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions
+2015-01-30 16:17:31.8801|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-01-30 16:17:32.4212|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-01-30 16:17:32.4212|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-01-30 16:17:37.6347|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-01-30 16:17:37.6347|INFO|SeleniumBase.BaseTestsuite|Test result: Success
+2015-01-30 16:17:37.6347|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-01-30 16:17:37.6417|INFO|SeleniumBase.BaseTestsuite|Test clean up complete.
+2015-02-25 18:05:30.6401|INFO|SeleniumBase.BaseTestsuite|Logging is setup.
+2015-02-25 18:05:30.6581|INFO|SeleniumBase.BaseTestsuite|Initializing LEGOUrlHandler helper object.
+2015-02-25 18:05:30.6581|INFO|SeleniumBase.BaseTestsuite|Starting webdriver.
+2015-02-25 18:05:36.4846|INFO|SeleniumBase.BaseTestsuite|Started [Chrome] as webdriver.
+2015-02-25 18:05:36.4866|INFO|SeleniumBase.BaseTestsuite|Initializing LEGO ID helper objects.
+2015-02-25 18:05:38.5829|DEBUG|SeleniumBase.BaseTestsuite|Using logging directory for reading screenshots: C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\logs
+2015-02-25 18:05:48.9969|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 1 and Link Name : VIDEOS and Link is : http://www.dev.corp.lego.com/en-us/dimensions/videos and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions/videos
+2015-02-25 18:05:49.0139|INFO|SeleniumBase.Tracking.PageStats|Restarted timer
+2015-02-25 18:05:56.2526|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-02-25 18:05:56.2526|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:videos:overview'.
+2015-02-25 18:06:01.6142|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-02-25 18:06:01.6142|INFO|SeleniumBase.BaseTestsuite|Test result: Failure
+2015-02-25 18:06:01.6182|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-02-25 18:06:01.6182|WARN|SeleniumBase.BaseTestsuite|Test ended while located on URL: http://www.dev.corp.lego.com/en-us/dimensions/videos
+2015-02-25 18:06:01.6182|DEBUG|SeleniumBase.BaseTestsuite|Generated screenshot savepath: c:\users\in8mohka\desktop\poc\sitecatalyst\_tst\sitetracking.ui.tests.selenium\sitetracking.ui.tests.selenium\bin\debug\logs\Navigation_LinkNavigation.png
+2015-02-25 18:06:01.6182|INFO|SeleniumBase.BaseTestsuite|Trying to take screenshot.
+2015-02-25 18:06:02.1492|INFO|SeleniumBase.BaseTestsuite|Screenshot saved at c:\users\in8mohka\desktop\poc\sitecatalyst\_tst\sitetracking.ui.tests.selenium\sitetracking.ui.tests.selenium\bin\debug\logs\Navigation_LinkNavigation.png
+2015-02-25 18:06:02.1492|INFO|SeleniumBase.BaseTestsuite|Terminating Webdriver.
+2015-02-25 18:06:02.4182|INFO|SeleniumBase.BaseTestsuite|Test clean up complete.
+2015-02-25 20:40:33.9822|INFO|SeleniumBase.BaseTestsuite|Logging is setup.
+2015-02-25 20:40:33.9902|INFO|SeleniumBase.BaseTestsuite|Initializing LEGOUrlHandler helper object.
+2015-02-25 20:40:33.9902|INFO|SeleniumBase.BaseTestsuite|Starting webdriver.
+2015-02-25 20:40:36.8992|INFO|SeleniumBase.BaseTestsuite|Started [Chrome] as webdriver.
+2015-02-25 20:40:36.9012|INFO|SeleniumBase.BaseTestsuite|Initializing LEGO ID helper objects.
+2015-02-25 20:40:39.1602|DEBUG|SeleniumBase.BaseTestsuite|Using logging directory for reading screenshots: C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\logs
+2015-02-25 20:40:47.8062|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 1 and Link Name : VIDEOS and Link is : http://www.dev.corp.lego.com/en-us/dimensions/videos and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions/videos
+2015-02-25 20:40:47.8412|INFO|SeleniumBase.Tracking.Factory|Restarted timer
+2015-02-25 20:40:50.1602|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-02-25 20:40:50.1602|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:videos:overview'.
+2015-02-25 20:40:55.4842|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 0 and Link Name : HOME and Link is : http://www.dev.corp.lego.com/en-us/dimensions and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions
+2015-02-25 20:40:55.4842|INFO|SeleniumBase.Tracking.Factory|Restarted timer
+2015-02-25 20:40:56.0512|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-02-25 20:40:56.0512|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-02-25 20:41:01.2752|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-02-25 20:41:01.2752|INFO|SeleniumBase.BaseTestsuite|Test result: Success
+2015-02-25 20:41:01.2752|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-02-25 20:41:01.2752|INFO|SeleniumBase.BaseTestsuite|Test clean up complete.
+2015-02-25 21:03:19.7229|INFO|SeleniumBase.BaseTestsuite|Logging is setup.
+2015-02-25 21:03:19.7339|INFO|SeleniumBase.BaseTestsuite|Initializing LEGOUrlHandler helper object.
+2015-02-25 21:03:19.7339|INFO|SeleniumBase.BaseTestsuite|Starting webdriver.
+2015-02-25 21:03:22.3802|INFO|SeleniumBase.BaseTestsuite|Started [Chrome] as webdriver.
+2015-02-25 21:03:22.3802|INFO|SeleniumBase.BaseTestsuite|Initializing LEGO ID helper objects.
+2015-02-25 21:03:23.8734|DEBUG|SeleniumBase.BaseTestsuite|Using logging directory for reading screenshots: D:\SiteTracking_dll\Debug\logs
+2015-02-25 21:03:31.7481|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 1 and Link Name : VIDEOS and Link is : http://www.dev.corp.lego.com/en-us/dimensions/videos and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions/videos
+2015-02-25 21:03:31.7711|INFO|SeleniumBase.Tracking.Factory|Restarted timer
+2015-02-25 21:03:32.8683|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-02-25 21:03:32.8683|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:videos:overview'.
+2015-02-25 21:03:38.0518|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 0 and Link Name : HOME and Link is : http://www.dev.corp.lego.com/en-us/dimensions and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions
+2015-02-25 21:03:38.0518|INFO|SeleniumBase.Tracking.Factory|Restarted timer
+2015-02-25 21:03:38.7778|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-02-25 21:03:38.7778|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-02-25 21:03:43.8574|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-02-25 21:03:43.8574|INFO|SeleniumBase.BaseTestsuite|Test result: Success
+2015-02-25 21:03:43.8594|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-02-25 21:03:43.8594|INFO|SeleniumBase.BaseTestsuite|Test clean up complete.
+2015-02-25 21:05:08.7548|INFO|SeleniumBase.BaseTestsuite|Logging is setup.
+2015-02-25 21:05:08.7628|INFO|SeleniumBase.BaseTestsuite|Initializing LEGOUrlHandler helper object.
+2015-02-25 21:05:08.7628|INFO|SeleniumBase.BaseTestsuite|Starting webdriver.
+2015-02-25 21:05:10.4120|INFO|SeleniumBase.BaseTestsuite|Started [Chrome] as webdriver.
+2015-02-25 21:05:10.4120|INFO|SeleniumBase.BaseTestsuite|Initializing LEGO ID helper objects.
+2015-02-25 21:05:11.7431|DEBUG|SeleniumBase.BaseTestsuite|Using logging directory for reading screenshots: d:\SiteTracking_dll\Debug\logs
+2015-02-25 21:05:24.7474|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 1 and Link Name : VIDEOS and Link is : http://www.dev.corp.lego.com/en-us/dimensions/videos and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions/videos
+2015-02-25 21:05:24.7664|INFO|SeleniumBase.Tracking.Factory|Restarted timer
+2015-02-25 21:05:25.4495|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-02-25 21:05:25.4515|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:videos:overview'.
+2015-02-25 21:05:30.7770|INFO|SeleniumBase.BaseTestsuite|Click and check Page Hit at index 0 and Link Name : HOME and Link is : http://www.dev.corp.lego.com/en-us/dimensions and Expected URL is http://www.dev.corp.lego.com/en-us/dimensions
+2015-02-25 21:05:30.7770|INFO|SeleniumBase.Tracking.Factory|Restarted timer
+2015-02-25 21:05:31.5231|INFO|SeleniumBase.Tracking.PageStatsProxy|==============================================================================
+2015-02-25 21:05:31.5231|INFO|SeleniumBase.Tracking.PageStatsProxy|New tracking hit: 'PageHit - dimensions:homepage:overview'.
+2015-02-25 21:05:36.7526|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-02-25 21:05:36.7526|INFO|SeleniumBase.BaseTestsuite|Test result: Success
+2015-02-25 21:05:36.7526|INFO|SeleniumBase.BaseTestsuite|--------------------
+2015-02-25 21:05:36.7526|INFO|SeleniumBase.BaseTestsuite|Test clean up complete.

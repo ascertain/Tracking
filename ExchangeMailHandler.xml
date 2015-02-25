@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ExchangeMailHandler</name>
+    </assembly>
+    <members>
+        <member name="T:ExchangeMailHandler.ExchangeMailMessage">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ExchangeMailHandler.ExchangeMailMessage.#ctor(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="from"></param>
+            <param name="to"></param>
+            <param name="subject"></param>
+            <param name="body"></param>
+            <param name="uniqueId"></param>
+        </member>
+        <member name="M:ExchangeMailHandler.ExchangeMailMessage.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="from"></param>
+            <param name="to"></param>
+            <param name="subject"></param>
+            <param name="body"></param>
+        </member>
+        <member name="M:ExchangeMailHandler.ExchangeMailMessage.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ExchangeMailHandler.ExchangeMailMessage.#ctor(System.Net.Mail.MailAddress,System.Net.Mail.MailAddress)">
+            <summary>
+            
+            </summary>
+            <param name="from"></param>
+            <param name="to"></param>
+        </member>
+        <member name="M:ExchangeMailHandler.ExchangeMailMessage.#ctor(System.String,System.String)">
+            <summary>
+            
+            </summary>
+            <param name="sender"></param>
+            <param name="receiver"></param>
+        </member>
+        <member name="P:ExchangeMailHandler.ExchangeMailMessage.UniqueId">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:ExchangeMailHandler.IMailServerCommunicator">
+            <summary>
+            Handler for exchange account
+            </summary>
+        </member>
+        <member name="M:ExchangeMailHandler.IMailServerCommunicator.GetEmailsFromLegoIdFolder(System.Int32)">
+            <summary>
+                Retrieves emails from the LEGO ID folder on the exchange account
+            </summary>
+            <param name="numberOfEmailsToGet">Number of emails to retrieve</param>
+            <returns>List of MailMessages that can be parsed to ExchangeMailMessages for use in delete scenarios</returns>
+        </member>
+        <member name="M:ExchangeMailHandler.IMailServerCommunicator.GetEmailsFromFolder(System.String,System.Int32)">
+            <summary>
+                Retrieves emails from a folder
+            </summary>
+            <param name="folderName">Name of the folder to retrieve from</param>
+            <param name="numberOfEmailsToGet">Number of emails to retrieve</param>
+            <returns>List ExchangeMailMessages</returns>
+        </member>
+        <member name="M:ExchangeMailHandler.IMailServerCommunicator.GetEmailsFromInbox(System.Int32)">
+            <summary>
+                Retrieves emails from inbox
+            </summary>
+            <param name="numberOfEmailsToGet">Number of emails to retrieve</param>
+            <returns>List of ExchangeMailMessage</returns>
+        </member>
+        <member name="M:ExchangeMailHandler.IMailServerCommunicator.SendEmail(System.Net.Mail.MailMessage)">
+            <summary>
+                Sends an email
+            </summary>
+            <param name="message">MailMessage with sender, receiver, body and subject set</param>
+        </member>
+        <member name="M:ExchangeMailHandler.IMailServerCommunicator.GetEmailBySubject(System.String)">
+            <summary>
+                Retrieves email by subject. If there is multiple emails with same subject, the first email is returned.
+            </summary>
+            <param name="subject">Subject to search for</param>
+            <returns>First email that matches the subject</returns>
+        </member>
+        <member name="M:ExchangeMailHandler.IMailServerCommunicator.DeleteMailFromInbox(ExchangeMailHandler.ExchangeMailMessage)">
+            <summary>
+                Deletes a specific email on the exchange account
+            </summary>
+            <param name="mailToDeleteFromInbox">
+                The ExchangeMailMessage that should be deleted. Must have set Unique ID in order to
+                be located on Exchange.
+            </param>
+        </member>
+        <member name="M:ExchangeMailHandler.IMailServerCommunicator.GetEmailsBySubject(System.String)">
+            <summary>
+                Returns all emails that matches the subject
+            </summary>
+            <param name="subject">Subject that the emails must match in order to be picked</param>
+            <returns>A collection of emails with matching subjects</returns>
+        </member>
+        <member name="M:ExchangeMailHandler.IMailServerCommunicator.GetAttachment(ExchangeMailHandler.ExchangeMailMessage)">
+            <summary>
+            Returns a stream containing the first attachment for the exchange email passed
+            </summary>
+            <param name="mailMessage">The email to get attachment for</param>
+            <returns>Stream with data for first attachment. Returns null if no attachment is found.</returns>
+        </member>
+        <member name="M:ExchangeMailHandler.IMailServerCommunicator.SaveAttachments(ExchangeMailHandler.ExchangeMailMessage)">
+            <summary>
+            Saves all attachments found for an email.
+            </summary>
+            <param name="mailMessage">Exchange email that have the attachments</param>
+            <returns>List of path to all attachments</returns>
+        </member>
+        <member name="M:ExchangeMailHandler.IMailServerCommunicator.GetSpecificAttachment(ExchangeMailHandler.ExchangeMailMessage,System.String)">
+            <summary>
+            Finds and returns specific attachment
+            </summary>
+            <param name="mailMessage">Mail message that contains the attachment</param>
+            <param name="attachmentSearchString">A string that the attachment must contain. (e.g. ".png" to retrive an attachment that contains .png)</param>
+            <returns>Stream of the attachment data</returns>
+        </member>
+        <member name="T:ExchangeMailHandler.MailServerCommunicator">
+            <summary>
+            Handler for exchange account
+            </summary>
+        </member>
+        <member name="M:ExchangeMailHandler.MailServerCommunicator.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>
+                Contstructor
+            </summary>
+            <param name="username">Username to exchange account</param>
+            <param name="password">Password to exchange account</param>
+            <param name="domain">Domain to exchange account ('LEGO' in case of using this for a LEGO account)</param>
+            <param name="emailAddress">Email address to exchange account</param>
+        </member>
+        <member name="M:ExchangeMailHandler.MailServerCommunicator.#ctor">
+            <summary>
+                WARNING: This constructor should only be used for mocking the object.
+            </summary>
+        </member>
+        <member name="M:ExchangeMailHandler.MailServerCommunicator.GetEmailsFromLegoIdFolder(System.Int32)">
+            <summary>
+                Retrieves emails from the LEGO ID folder on the exchange account
+            </summary>
+            <param name="numberOfEmailsToGet">Number of emails to retrieve</param>
+            <returns>List of MailMessages that can be parsed to ExchangeMailMessages for use in delete scenarios</returns>
+        </member>
+        <member name="M:ExchangeMailHandler.MailServerCommunicator.GetEmailsFromFolder(System.String,System.Int32)">
+            <summary>
+                Retrieves emails from a folder
+            </summary>
+            <param name="folderName">Name of the folder to retrieve from</param>
+            <param name="numberOfEmailsToGet">Number of emails to retrieve</param>
+            <returns>List ExchangeMailMessages</returns>
+        </member>
+        <member name="M:ExchangeMailHandler.MailServerCommunicator.GetEmailsFromInbox(System.Int32)">
+            <summary>
+                Retrieves emails from inbox
+            </summary>
+            <param name="numberOfEmailsToGet">Number of emails to retrieve</param>
+            <returns>List of ExchangeMailMessage</returns>
+        </member>
+        <member name="M:ExchangeMailHandler.MailServerCommunicator.SendEmail(System.Net.Mail.MailMessage)">
+            <summary>
+                Sends an email
+            </summary>
+            <param name="message">MailMessage with sender, receiver, body and subject set</param>
+        </member>
+        <member name="M:ExchangeMailHandler.MailServerCommunicator.GetEmailBySubject(System.String)">
+            <summary>
+                Retrieves email by subject. If there is multiple emails with same subject, the first email is returned.
+            </summary>
+            <param name="subject">Subject to search for</param>
+            <returns>First email that matches the subject</returns>
+        </member>
+        <member name="M:ExchangeMailHandler.MailServerCommunicator.DeleteMailFromInbox(ExchangeMailHandler.ExchangeMailMessage)">
+            <summary>
+                Deletes a specific email on the exchange account
+            </summary>
+            <param name="mailToDeleteFromInbox">
+                The ExchangeMailMessage that should be deleted. Must have set Unique ID in order to
+                be located on Exchange.
+            </param>
+        </member>
+        <member name="M:ExchangeMailHandler.MailServerCommunicator.GetEmailsBySubject(System.String)">
+            <summary>
+                Returns all emails that matches the subject
+            </summary>
+            <param name="subject">Subject that the emails must match in order to be picked</param>
+            <returns>A collection of emails with matching subjects</returns>
+        </member>
+        <member name="M:ExchangeMailHandler.MailServerCommunicator.GetAttachment(ExchangeMailHandler.ExchangeMailMessage)">
+            <summary>
+            Returns a stream containing the first attachment for the exchange email passed
+            </summary>
+            <param name="mailMessage">The email to get attachment for</param>
+            <returns>Stream with data for first attachment. Returns null if no attachment is found.</returns>
+        </member>
+        <member name="M:ExchangeMailHandler.MailServerCommunicator.SaveAttachments(ExchangeMailHandler.ExchangeMailMessage)">
+            <summary>
+            Saves all attachments found for an email.
+            </summary>
+            <param name="mailMessage">Exchange email that have the attachments</param>
+            <returns>List of path to all attachments</returns>
+        </member>
+        <member name="M:ExchangeMailHandler.MailServerCommunicator.GetSpecificAttachment(ExchangeMailHandler.ExchangeMailMessage,System.String)">
+            <summary>
+            Finds and returns specific attachment
+            </summary>
+            <param name="mailMessage">Mail message that contains the attachment</param>
+            <param name="attachmentSearchString">A string that the attachment must contain. (e.g. ".png" to retrive an attachment that contains .png)</param>
+            <returns>Stream of the attachment data</returns>
+        </member>
+    </members>
+</doc>

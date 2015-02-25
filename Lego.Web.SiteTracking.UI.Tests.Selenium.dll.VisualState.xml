@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1002]C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\Lego.Web.SiteTracking.UI.Tests.Selenium.dll</TopNode>
+  <SelectedNode>[0-1002]C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\Lego.Web.SiteTracking.UI.Tests.Selenium.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1002]C:\Users\in8mohka\Desktop\POC\SiteCatalyst\_tst\SiteTracking.UI.Tests.Selenium\SiteTracking.UI.Tests.Selenium\bin\Debug\Lego.Web.SiteTracking.UI.Tests.Selenium.dll" Expanded="true" />
+    <Node UniqueName="[0-1003]Lego" Expanded="true" />
+    <Node UniqueName="[0-1004]Lego.Web" Expanded="true" />
+    <Node UniqueName="[0-1005]Lego.Web.SiteTracking" Expanded="true" />
+    <Node UniqueName="[0-1006]Lego.Web.SiteTracking.UI" Expanded="true" />
+    <Node UniqueName="[0-1007]Lego.Web.SiteTracking.UI.Tests" Expanded="true" />
+    <Node UniqueName="[0-1008]Lego.Web.SiteTracking.UI.Tests.Selenium" Expanded="true" />
+    <Node UniqueName="[0-1009]Lego.Web.SiteTracking.UI.Tests.Selenium.TrackingTestsuite" Expanded="true" />
+    <Node UniqueName="[0-1000]Lego.Web.SiteTracking.UI.Tests.Selenium.TrackingTestsuite.TestTrackSuite" Expanded="true" />
+  </Nodes>
+</VisualState>

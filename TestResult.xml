@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\SiteTracking_dll\Debug\Lego.Web.SiteTracking.UI.Tests.Selenium.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-02-25" time="21:03:44">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\in8mohka\Downloads\NUnit-2.6.4\bin" machine-name="DKV1679" user="in8mohka" user-domain="LEGO" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\SiteTracking_dll\Debug\Lego.Web.SiteTracking.UI.Tests.Selenium.dll" executed="True" result="Success" success="True" time="26.645" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Lego" executed="True" result="Success" success="True" time="26.628" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Web" executed="True" result="Success" success="True" time="26.628" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="SiteTracking" executed="True" result="Success" success="True" time="26.628" asserts="0">
+                <results>
+                  <test-suite type="Namespace" name="UI" executed="True" result="Success" success="True" time="26.628" asserts="0">
+                    <results>
+                      <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="26.627" asserts="0">
+                        <results>
+                          <test-suite type="Namespace" name="Selenium" executed="True" result="Success" success="True" time="26.627" asserts="0">
+                            <results>
+                              <test-suite type="Namespace" name="TrackingTestsuite" executed="True" result="Success" success="True" time="26.627" asserts="0">
+                                <results>
+                                  <test-suite type="TestFixture" name="TestTrackSuite" executed="True" result="Success" success="True" time="26.625" asserts="0">
+                                    <results>
+                                      <test-case name="Lego.Web.SiteTracking.UI.Tests.Selenium.TrackingTestsuite.TestTrackSuite.Navigation_LinkNavigation" executed="True" result="Success" success="True" time="24.882" asserts="8" />
+                                    </results>
+                                  </test-suite>
+                                </results>
+                              </test-suite>
+                            </results>
+                          </test-suite>
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
